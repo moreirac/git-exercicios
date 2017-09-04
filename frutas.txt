@@ -1,1 +1,7 @@
 # Frutas
+Morango
+Limao
+Melao
+Cereja
+Abacate
+
